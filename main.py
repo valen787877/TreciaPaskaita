@@ -473,4 +473,4 @@ for i in range(2, 10):
     masyvas.append(masyvas[i-1] + masyvas[i-2]) # i yra dabartinis index, i-1 yra buves, i-2 dar pries tai
 
 print(masyvas)
-#
+#kartu su ketvirtos paskaitos uzduociu sprendimais
